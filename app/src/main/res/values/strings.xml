@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">calculator</string>
+    <string name="sum">SUMAR</string>
+    <string name="rest">RESTAR</string>
+    <string name="mult">MULTIPLICAR</string>
+    <string name="div">DIVIDIR</string>
+    <string name="por">PORCENTAJE</string>
+
+    <string name="hintnumber">Escribe aqui un numero</string>
+</resources>
